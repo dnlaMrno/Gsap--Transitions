@@ -3,14 +3,14 @@
     padding: 0;
     box-sizing: border-box;
 }
-/* 
+
 body {
     background: #222;
     height: 200vh;
-} */
+}
 
 /* ejemplo de rotacion cuadrado*/
-/* .cubos-container {
+.cubos-container {
     display: flex;
     flex-direction: column;
     margin-top: 500px;
@@ -35,7 +35,7 @@ body {
     background: #FFFF66;
     width: 100px;
     height: 100px;
-} */
+}
 /************ */
 
 /* una especie de parallax que baja el texto con la section */
@@ -110,7 +110,7 @@ body {
   /************ */
 
 /*  Scrolling" Section Transitions */
-  html, body {
+  /* html, body {
     height: 100%;
   }
   body { 
@@ -136,5 +136,5 @@ body {
   .nuevo {
     font-size: 60px;
     margin-top: 200px;
-  }
+  } */
   /****************/
